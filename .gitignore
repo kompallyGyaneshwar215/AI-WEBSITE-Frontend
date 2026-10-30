@@ -1,0 +1,10 @@
+# Dependencies & Archives
+*.zip
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+Thumbs.db
+.DS_Store
